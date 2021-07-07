@@ -1,0 +1,14 @@
+.adminContainer {
+    width: 100%;
+    padding: 0 !important;
+}
+
+.adminContainer .row {
+    width: 100%;
+    padding: 0 !important;
+}
+
+.adminContainer .row > div{
+    margin: 0 !important;
+    padding: 0 !important;
+}

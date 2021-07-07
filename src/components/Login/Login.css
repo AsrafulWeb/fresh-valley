@@ -1,0 +1,19 @@
+.orText div{
+    margin-top: -42px !important;
+    width: 40px;
+    display: block;
+    margin: 0px 12.3%;
+    height: 50px;
+    position: absolute;
+    padding: 10px 0;
+    background-color: #fff !important;
+}
+
+.loginFormSubmit button{
+    width: 100%;
+    background: #71BA58;
+}
+
+.loginFormSubmit button:hover{
+    background: #589743;
+}

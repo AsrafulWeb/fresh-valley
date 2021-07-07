@@ -1,0 +1,35 @@
+.adminMenu {
+    background-color: #203D37;
+    height: 100vh;
+}
+
+.adminMenuLogo {
+    margin: 50px 0 0 60px;
+    padding-top: 50px;
+    color: #fff !important;
+}
+
+.adminMenuItems {
+    margin-top: 40px;
+}
+
+.adminMenuItems li {
+    list-style: none;
+}
+
+.adminMenuItem {
+    color: #fff;
+    text-decoration: none;
+    padding: 10px 0;
+    width: 100%;
+    display: block;
+}
+
+.adminMenuItem:hover {
+    color: rgb(255, 236, 208);
+    background-color: #3e6b61;
+}
+
+.amActive {
+    background-color: #2D524A;
+}

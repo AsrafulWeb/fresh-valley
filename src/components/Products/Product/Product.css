@@ -1,0 +1,14 @@
+
+.productItem .card{
+    border-radius: 10px !important;
+    box-shadow: 0px 0px 27px #efeeee !important;
+}
+
+.productPrice{
+    font-family: Roboto;
+}
+
+.productBuyNowBtn{
+    border: none;
+    border-radius: 10px !important;
+}
